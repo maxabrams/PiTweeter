@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #Max Abrams 2016
-#status.py - Simple python program demonstating twitter api. When ran, this will tweet cpu temp, free disk space, cpu usage, and ram usage
+#status.py - Simple python program demonstrating the twitter api. When ran, this will tweet cpu temp, free disk space, cpu usage, and ram usage
 #Make sure to use your own Twitter keys!!
 
 import sys
