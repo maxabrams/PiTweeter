@@ -1,7 +1,7 @@
 # PiTweeter
-Python script to tweet status information about the raspberry pi!
+Python script to tweet status information about the Raspberry Pi!
 
-This simple python program demonstates twitter api on the Rasperry Pi. When ran, this will tweet cpu temp, free disk space, cpu usage, and ram usage
+This simple python program demonstrates twitter api on the Raspberry Pi. When ran, this will tweet cpu temp, free disk space, cpu usage, and ram usage
 
 Make sure to fill in your own Twitter keys!!
 
