@@ -5,6 +5,7 @@ This simple python program demonstrates twitter api on the Raspberry Pi. When ra
 
 Make sure to fill in your own Twitter keys!!
 
+
 To create a cron job to auto execute:
 
 1)From terminal execute: $sudo crontab -e
